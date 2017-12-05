@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css?family=Abel');
+
+body{
+    font-family: Abel;
+    margin-top: 70px;
+    background-color: #0d0d0d;
+}
+
+
+#terms {
+    color: #00ff88;
+    font-size: 35px;
+}
+
+#introtext {
+    color: #00ff88;
+}
+
+.headertext {
+    color: #00ff88;
+    font-size: 50px;
+}
+
+.normaltext {
+    color: #f4f4f4;
+    font-size: 20px;
+}
+
+.biggernormaltext {
+    color: #f4f4f4;
+    font-size: 30px;
+}
+
+.smallernormaltext {
+    color: #f4f4f4;
+    font-size: 15px;
+}
+
+.introtext h1 {
+    margin-top: 100px;
+}
+
+#introtext h1 {
+    font-size: 50px;
+}
+
+#socialinfo {
+    margin-top: 80px;
+}
+
+#socialinfo h2, a {
+    text-decoration: none;
+    color: #ffffff;
+}
+#socialinfo h2, a:hover, a:visited {
+    text-decoration: none;
+    color: #f4f4f4;
+}
+
+#about {
+    margin-top: 80px;
+}
+
+#commands {
+    margin-top: 80px;
+}
+
+.spacer {
+    height: 30px;
+}
+
+#shop {
+    margin-top: 80px;
+}
+
+#commissions {
+    margin-top: 80px;
+}
+
+/* On Mobile Screens */
+@media(max-width: 568px) {
+    #introtext h1 {
+        font-size: 30px;
+    }
+    
+}
