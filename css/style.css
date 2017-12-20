@@ -6,6 +6,9 @@ body{
     background-color: #0d0d0d;
 }
 
+#nerdrushLink {
+    text-decoration: underline;
+}
 
 #terms {
     color: #00ff88;
