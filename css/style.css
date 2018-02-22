@@ -4,6 +4,7 @@ body{
     font-family: Abel;
     margin-top: 70px;
     background-color: #0d0d0d;
+    overflow-x: hidden;
 }
 
 #nerdrushLink {
