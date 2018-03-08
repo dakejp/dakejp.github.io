@@ -40,6 +40,10 @@ body{
     font-size: 15px;
 }
 
+.socialButton:hover {
+    color: #00b963;
+}
+
 .introtext h1 {
     margin-top: 100px;
 }
