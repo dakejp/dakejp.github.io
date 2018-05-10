@@ -77,6 +77,10 @@ body{
     height: 30px;
 }
 
+.spacer-small {
+    height: 12px;
+}
+
 #shop {
     margin-top: 80px;
 }
