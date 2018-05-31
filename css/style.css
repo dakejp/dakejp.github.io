@@ -40,6 +40,10 @@ body{
     font-size: 15px;
 }
 
+.socialButton {
+    color: #00ff88;
+}
+
 .socialButton:hover {
     color: #00b963;
 }
