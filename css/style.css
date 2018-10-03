@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Abel');
-
+@import url('https://fonts.googleapis.com/css?family=Barlow');
 body{
-    font-family: Abel;
+    font-family: 'Barlow', sans-serif;
+    font-style: italic;
     margin-top: 70px;
     background-color: #0d0d0d;
     overflow-x: hidden;
