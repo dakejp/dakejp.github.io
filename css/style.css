@@ -4,7 +4,7 @@ body{
     margin-top: 70px;
     background-color: #0d0d0d;
     overflow-x: hidden;
-    cursor: url(/durpydak.png), pointer;
+    /*cursor: url(/durpydak.png), pointer;*/
 }
 
 #nerdrushLink {
