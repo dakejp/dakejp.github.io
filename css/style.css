@@ -1,10 +1,14 @@
 @import url('https://fonts.googleapis.com/css?family=Barlow:400i');
+
+* {
+    cursor: url(/img/durpydakCur.png), default !important;
+}
+
 body{
     font-family: 'Barlow', sans-serif;
     margin-top: 70px;
     background-color: #0d0d0d;
     overflow-x: hidden;
-    /*cursor: url(/durpydak.png), pointer;*/
 }
 
 #nerdrushLink {
