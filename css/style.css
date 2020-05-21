@@ -16,16 +16,16 @@ body{
 }
 
 #terms {
-    color: #00ff88;
+    color: #9977dd;
     font-size: 35px;
 }
 
 #introtext {
-    color: #00ff88;
+    color: #9977dd;
 }
 
 .headertext {
-    color: #00ff88;
+    color: #9977dd;
     font-size: 50px;
 }
 
@@ -45,7 +45,7 @@ body{
 }
 
 .socialButton {
-    color: #00ff88;
+    color: #9977dd;
 }
 
 .socialButton:hover {
